@@ -1,6 +1,10 @@
-body{
-    background-color: azure;
+html{
+    background: linear-gradient(azure, rgb(221, 250, 170));
     line-height: 2;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 h1{
     font-size: 5rem;
