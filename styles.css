@@ -1,0 +1,13 @@
+body{
+    background-color: azure;
+    line-height: 2;
+}
+h1{
+    font-size: 5rem;
+    margin-left: 10%;
+}
+p{
+    max-width: 800px;
+    font-size: 1.25rem;
+    margin: 0 auto;
+}
