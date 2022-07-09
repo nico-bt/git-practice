@@ -1,5 +1,5 @@
 html{
-    background: linear-gradient(azure, rgb(221, 250, 170));
+    background: linear-gradient(azure, rgb(221, 250, 170), rgb(192, 192, 3), darkorange);
     line-height: 2;
     min-height: 100vh;
     margin: 0;
