@@ -1,1 +1,2 @@
 Feature 1 wip
+Agregando texto para hace un commit --amend
