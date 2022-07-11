@@ -1,2 +1,4 @@
 Feature 1 wip
 Agregando texto para hace un commit --amend
+Lorem ipsum bla bla...
+Text for Squash with previous commit "Lorem..."
